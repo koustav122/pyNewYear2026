@@ -22,14 +22,16 @@ This repository features colorful terminal animations, mini-games, and utilities
 1. Clone the repository:
    ```bash
    git clone https://github.com/koustav122/pyNewYear2026.git
+   
 Navigate into the folder:
 
 bash
 cd pyNewYear2026
-Run any script:
 
+Run any script:
 bash
 python filename.py
+
 🧩 Future Enhancements
 Add GUI versions for games
 
@@ -45,5 +47,6 @@ Passionate about Python, creativity, and festive coding 🎆
 🪪 License
 This project is open-source under the MIT License.
 Feel free to use, modify, and share!
+
 ⭐ If you like this repo, give it a star!  
 Let’s make coding festive and fun together 🎉

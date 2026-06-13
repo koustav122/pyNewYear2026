@@ -25,14 +25,14 @@ This repository features colorful terminal animations, mini-games, and utilities
    
 Navigate into the folder:
 
-bash
+bash:
 cd pyNewYear2026
 
 Run any script:
-bash
+bash:
 python filename.py
 
-🧩 Future Enhancements
+🧩 Future Enhancements:
 Add GUI versions for games
 
 Integrate APIs for live data (weather, quotes)
@@ -50,3 +50,4 @@ Feel free to use, modify, and share!
 
 ⭐ If you like this repo, give it a star!  
 Let’s make coding festive and fun together 🎉
+KmPro☕👨🏻‍💻✨

@@ -11,7 +11,7 @@ This repository features colorful terminal animations, mini-games, and utilities
 |-----------|------|-------------|
 | 🎊 Festive Scripts | `HNY.py`, `wish.py`, `fireworks.py` | New Year countdowns, greetings, and fireworks animations |
 | 🎨 Cultural Celebrations | `Republic_Day.py`, `Vasant_panchami.py`, `Happy_holi.py`, `Holi_ani.py` | Scripts celebrating Indian festivals |
-| 🎮 Games | `snake_game.py`, `number_guessing_game.py`, `Lucky_game.py`, `dice_roll.py`, `Musicpy.py` | Fun terminal-based games |
+| 🎮 Games | `snake_game.py`, `number_guessing_game.py`, `Lucky_game.py`, `dice_roll.py`, `Musicpy.py`, `HCF_CALC.py` | Fun terminal-based games |
 | 💡 Utilities | `calculator.py`, `password_generator.py`, `api_health_checker.py`, `simpleclock.py`, `Sequence.py` | Handy Python tools and generators |
 | 🧠 Motivation | `Quote.py`, `motivation.py`, `Journal.py` | Inspirational quotes and journaling scripts |
 
